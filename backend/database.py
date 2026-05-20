@@ -19,7 +19,7 @@ from backend import models
 
 # Поддержка как SQLite (для разработки), так и PostgreSQL (для production)
 # По умолчанию используем SQLite - проще и не требует настройки
-# Для PostgreSQL установите переменную окружения DATABASE_URL
+# Для PostgreSQL установите переменную окружения DATABASE_URL 1488
 DATABASE_URL = os.getenv(
     "DATABASE_URL",
     # По умолчанию используем SQLite - файл в папке backend
