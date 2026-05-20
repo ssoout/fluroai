@@ -195,7 +195,7 @@ class _ItemDetailScreenState extends State<ItemDetailScreen> {
                   ],
                 ),
               ),
-
+// я крутой
               // Основной контент
               Expanded(
                 child: SingleChildScrollView(
