@@ -1,0 +1,11 @@
+﻿.venv/
+venv/
+ml/data/
+ml/models/
+__pycache__/
+*.pth
+*.h5
+*.ckpt
+*.pyc
+.vscode/
+.idea/
